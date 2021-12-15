@@ -1,4 +1,4 @@
-# Single Sign-On for GLPI
+# SSO for GLPI
 
 ![Lint](https://github.com/edgardmessias/glpi-singlesignon/workflows/Lint/badge.svg)
 [![CodeFactor](https://www.codefactor.io/repository/github/edgardmessias/glpi-singlesignon/badge)](https://www.codefactor.io/repository/github/edgardmessias/glpi-singlesignon)
