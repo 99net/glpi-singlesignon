@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <name>Single Sign-On</name>
+    <name>SSO</name>
     <key>singlesignon</key>
     <state>stable</state>
     <logo>https://raw.githubusercontent.com/edgardmessias/glpi-singlesignon/master/plugin.png</logo>
